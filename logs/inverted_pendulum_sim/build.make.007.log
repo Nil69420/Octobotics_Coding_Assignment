@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target InvertedPendulum[0m
+make[2]: *** No rule to make target 'CMakeFiles/InvertedPendulum.dir/build'.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:156: CMakeFiles/InvertedPendulum.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[  0%] Built target _inverted_pendulum_sim_generate_messages_check_deps_ControlForce
+[  0%] Built target _inverted_pendulum_sim_generate_messages_check_deps_SetParams
+[  0%] Built target _inverted_pendulum_sim_generate_messages_check_deps_CurrentState
+make: *** [Makefile:141: all] Error 2

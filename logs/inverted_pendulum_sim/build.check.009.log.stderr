@@ -1,0 +1,6 @@
+[31m[1mCMake Error[0m at /home/nil/Desktop/Octobotics_Coding_Assignment/src/inverted_pendulum_sim/CMakeLists.txt:29 (set_target_properties):
+  set_target_properties Can not find target to add properties to:
+  python_module_library
+
+
+make: *** [Makefile:530: cmake_check_build_system] Error 1
