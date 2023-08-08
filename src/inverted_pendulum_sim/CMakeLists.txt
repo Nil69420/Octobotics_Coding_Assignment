@@ -21,6 +21,12 @@ generate_messages(
   DEPENDENCIES
 )
 
-catkin_package(CATKIN_DEPENDS message_generation rospy  message_runtime)
+
+catkin_package(
+  LIBRARIES ${PROJECT_NAME}
+  CATKIN_DEPENDS message_generation rospy  message_runtime)
+
+
+
 install(FILES)
 

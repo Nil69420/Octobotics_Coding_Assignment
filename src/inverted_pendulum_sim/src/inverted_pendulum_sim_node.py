@@ -20,7 +20,7 @@ __author__ = "Yogesh Phalak"
 '''
 This node simulates the inverted pendulum.
 '''
-
+#! /usr/bin/env python
 import rospy
 import rospkg
 import pygame as pg
